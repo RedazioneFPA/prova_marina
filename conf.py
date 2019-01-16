@@ -38,5 +38,5 @@ def setup(app):
 #latex_documents = []
 
 # inserire un logo in alto a sinistra (mettendo l’immagine nella cartella “static”)
-latex_logo = "https://raw.githubusercontent.com/RedazioneFPA/prova_marina/master/static/fpa%20logo.jpeg"
-html_logo = "https://raw.githubusercontent.com/RedazioneFPA/prova_marina/master/static/fpa%20logo.jpeg"
+latex_logo = "static/fpa logo.png"
+html_logo = "static/fpa logo.png"
