@@ -29,4 +29,4 @@ Chi ha contribuito
 
 .. |REPLACE1| raw:: html
 
-    <img src=https://github.com/RedazioneFPA/prova_marina/blob/master/static/comune%20genova.png />
+    <img src=https://github.com/RedazioneFPA/prova_marina/blob/master/static/fg.jpg /> 
