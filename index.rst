@@ -1,4 +1,7 @@
 
+|REPLACE1|
+
+
 .. name:: argument
     :option: value
     :option: value
@@ -9,7 +12,7 @@
 
 Chi ha contribuito 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. toctree:: 
@@ -28,5 +31,8 @@ Chi ha contribuito
 
 
 .. |REPLACE1| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img class="immagonobox" style="border-width: 0;" title="Nome partner" src="https://raw.githubusercontent.com/RedazioneFPA/prova_marina/master/static/comune%20genova.png" alt="Partner" width="100" height="50"  /></a></a></p>
+.. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/RedazioneFPA/prova_marina/master/static/fg.jpg" /> 
