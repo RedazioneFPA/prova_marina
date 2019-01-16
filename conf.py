@@ -38,5 +38,5 @@ def setup(app):
 #latex_documents = []
 
 # inserire un logo in alto a sinistra (mettendo l’immagine nella cartella “static”)
-latex_logo = "static/fg.jpg"
-html_logo = "static/fg.jpg"
+latex_logo = "static/fpa%20logo.jpg"
+html_logo = "static/fpa%20logo.jpg"
