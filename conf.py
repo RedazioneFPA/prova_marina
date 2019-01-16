@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'CHANGE-THIS'
-copyright = '2016, CHANGE-THIS'
+project = 'prova-marina'
+copyright = '2016, Licenza CC BY'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -38,5 +38,5 @@ def setup(app):
 #latex_documents = []
 
 # inserire un logo in alto a sinistra (mettendo l’immagine nella cartella “static”)
-latex_logo = "static/immagine.jpg"
-html_logo = "static/immagine.jpg"
+latex_logo = "static/fg.jpg"
+html_logo = "static/fg.jpg"
