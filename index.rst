@@ -5,6 +5,12 @@
 
     content
 
+(descrizione)
+
+Chi ha contribuito 
+
+|REPLACE1|
+
 
 .. toctree:: 
     :maxdepth: 3
@@ -19,3 +25,8 @@
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <img src=https://github.com/RedazioneFPA/prova_marina/blob/master/static/comune%20genova.png />
